@@ -11,11 +11,11 @@ Libraries:
 ![add](screenshots/add.png)
 
 ### Substract
-![add](screenshots/substract.png)
+![sub](screenshots/substract.png)
 
 ### Multiple
-![add](screenshots/multiple.png)
+![mul](screenshots/multiple.png)
 
 
 ### Divide
-![add](screenshots/divide.png)
+![div](screenshots/divide.png)
